@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+models/
+# Secrets: keys live only in the local .env
+.env
